@@ -2,7 +2,6 @@
 
 **Project KitaMart**<br>
 
-<p align="center">
 | No.| Nama Kelompok | NIM | Kelas |
 |----|------------|--------|-------|
 | 1. | Muhammad Reza Maulana |  312210303 | TI.22.A3 |
