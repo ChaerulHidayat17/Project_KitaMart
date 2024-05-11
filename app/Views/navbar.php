@@ -11,7 +11,7 @@
         <?php if($session->get('isLoggedIn')): ?>
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="<?= site_url('home/index')?>">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="<?= site_url('home/index')?>">Home <span class="sr-only"></span></a>
           </li>
           <?php if(session()->get('role')==0): ?>
           <li class="nav-item dropdown">
