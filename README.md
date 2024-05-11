@@ -1,7 +1,8 @@
 <h1><p align="center"> Project UTS Pemrograman Web</h1><br>
 
-<h2>Project KitaMart</h2><br>
+**Project KitaMart**<br>
 
+<p align="center">
 | No.| Nama Kelompok | NIM | Kelas |
 |----|------------|--------|-------|
 | 1. | Muhammad Reza Maulana |  312210303 | TI.22.A3 |
