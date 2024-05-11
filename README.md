@@ -1,6 +1,6 @@
 <h1><p align="center"> Project UTS Pemrograman Web</h1><br>
 
-<h1>Projcet KitaMart</h1><br>
+<h2>Project KitaMart</h2><br>
 
 | No.| Nama Kelompok | NIM | Kelas |
 |----|------------|--------|-------|
