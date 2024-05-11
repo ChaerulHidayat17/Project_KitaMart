@@ -110,6 +110,7 @@ $submit = [
                 <?= form_label('Alamat', 'alamat') ?>
                 <?= form_input($alamat) ?>
             </div>
+            <br>
             <div class="text-right">
                 <?= form_submit($submit) ?>
             </div>

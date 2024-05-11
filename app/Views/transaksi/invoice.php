@@ -14,9 +14,9 @@
 	<body>
 		<div style="font-size:64px; color:'#dddddd' "><i>Invoice</i></div>
 		<p>
-			<i>PALUGADA SHOP</i><br>
+			<i>KitaMart</i><br>
 			Cikarang, Indonesia<br>
-			02112131415
+			021-1223123134
 		</p>
 		<hr>
 		<hr>
