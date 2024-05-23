@@ -48,7 +48,7 @@ $username = $session->get('username'); // Assuming 'username' is stored in the s
                         <a class="nav-link dropdown-toggle d-flex align-items-center" href="#" id="userDropdown"
                            data-toggle="dropdown" aria-haspopup="true"
                            aria-expanded="false">
-<!--                            <img src="logos.png" class="rounded-circle mr-2" alt="Profile Logo">-->
+                           <img src="https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-PNG-Free-Image.png" class="rounded-circle mr-2" alt="Profile Logo">
                             <!-- Profile logo -->
                             <?= $username ?> <span class="caret"></span>
                         </a>
