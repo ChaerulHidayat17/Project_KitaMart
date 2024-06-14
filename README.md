@@ -32,11 +32,11 @@ Untuk melihat semua fitur yang kami tawarkan, Anda bisa masuk ke mode User atau 
 
 ### 👥 Mode User:
 - 🛍️ Menjelajahi berbagai produk yang tersedia.
-- 🛒 Menambahkan produk ke keranjang belanja.
+- 🛒 Etalase produk yang menarik.
 - 💳 Melakukan proses checkout dengan mudah.
 
 ### 📊 Mode Admin:
-- 📦 Mengelola produk dan inventaris.
+- 📦 Mengelola produk.
 - 📈 Memantau pesanan dan pengiriman.
 - 📞 Menangani kebutuhan pelanggan dengan lebih efisien.
 
@@ -44,9 +44,6 @@ Untuk melihat semua fitur yang kami tawarkan, Anda bisa masuk ke mode User atau 
 
 **Catatan:** Saat ini, Project KitaMart menggunakan **simulator pembayaran** dari Midtrans. Untuk mencoba proses pembayaran, silakan gunakan link berikut: [Simulator Payment Midtrans](https://simulator.sandbox.midtrans.com/).
 
-## 📬 Umpan Balik
-
-Jangan lewatkan kesempatan ini untuk merasakan kemudahan berbelanja dan mengelola toko online dengan KitaMart. Kami tunggu feedback dan masukan Anda!
 
 Selamat mencoba!
 
